@@ -23,7 +23,7 @@
 
 
 ---
-
+<!--
 ### 🚀 Projects
 
 Here are a few of my favorite projects:
@@ -72,7 +72,7 @@ Here are a few of my favorite projects:
 - 🐍 Coursera: Python for Everybody (Univ. of Michigan)
 
 ---
-
+-->
 ### 🌐 Community Involvement
 
 **🚩 AWS Cloud Club – Campus Lead @ UET Peshawar**  
