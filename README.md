@@ -82,13 +82,13 @@ Here are a few of my favorite projects:
 ---
 
 ### 📈 GitHub Stats
-
+<!--
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=M-Uzaif&show_icons=true&theme=tokyonight" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-Uzaif&theme=tokyonight" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-Uzaif&layout=compact&theme=tokyonight" />
 </p>
-
+-->
 ---
 
 ### 💬 Let's Connect!
